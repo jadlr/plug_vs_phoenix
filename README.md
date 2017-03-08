@@ -4,7 +4,7 @@
 
 This will hopefully help us in deciding if we'll use plug or phoenix for an API
 
-run with `iex -S mix phoenix.server`
+run with `iex -S mix phx.server`
 
 #### Plug
 
