@@ -19,3 +19,5 @@ run with `iex -S mix phx.server`
 
 `curl -H "Content-Type: application/json" -X POST -d '{"username":"jonas","password":"secret"}' http://localhost:4000/reverse
 `
+
+**Verdict:** Go with `phoenix`
